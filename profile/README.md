@@ -4,5 +4,9 @@
 
 Team focused on the most varied areas (RATs, vulnerability exploitation, etc)
 
+### Main Languages: 
+C#
+Lua (U)
+
 ### Members:
 - https://github.com/r7pha (Owner)
